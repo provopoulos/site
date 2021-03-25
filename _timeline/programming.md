@@ -1,6 +1,6 @@
 ---
-layout: timeline 
-title: Γλώσσες Προγραμματισμού 
+layout: timeline
+title: Γλώσσες Προγραμματισμού
 image_url: /images/smalltalk.jpg
 caption: Οι γλώσσες προγραμματισμού θεωρούνται μια περιοχή για τους ειδικούς και τους κατασκευαστές των συστημάτων, αλλά στην πράξη ο προγραμματιστής είναι ένας ακόμη χρήστης, με περισσότερες γνώσεις, δεξιότητες, και δυνατότητες.
 events:
@@ -22,6 +22,7 @@ events:
   - visual-basic-form-designer
   - squeakos
   - eclipse-ide
-  - processing-ide 
+  - processing-ide
   - learntomod
+  - matlab
 ---
