@@ -14,7 +14,7 @@ slides:
   - visual-basic-form-designer
   - mit-scratch
   - smalltalk
-  - vim-ide
+  - eclipse-ide
   - processing-ide
   - arduino_uno
   - arduino-lilypad
@@ -23,5 +23,5 @@ slides:
   - reactable-music
   - reactivision-simulator
   - reactable-fountain
+  - matlab
 ---
-
